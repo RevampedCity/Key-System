@@ -1,34 +1,14 @@
 {
   "users": {
-    "Jay": {
-      "key": "Owner",
-      "expires": "2025-07-01",
+    "Owner": {
+      "key": "Jay",
+      "expires": "2025-06-15",
       "hwid": "03F28BB1-1CF2-4617-8E17-52A74FD7EED5"
     },
-    "": {
-      "key": "",
-      "expires": "2025-07-01",
-      "hwid": ""
-    },
-    "": {
-      "key": "",
-      "expires": "2025-07-01",
-      "hwid": ""
-    },
-    "": {
-      "key": "",
-      "expires": "2025-07-01",
-      "hwid": ""
-    },
-    "": {
-      "key": "",
-      "expires": "2025-07-01",
-      "hwid": ""
-    },
-    "": {
-      "key": "",
-      "expires": "2025-06-15"
-      "hwid": ""
+    "Bob": {
+      "key": "BOB-KEY-9999",
+      "expires": "2025-08-01",
+      "hwid": "02D38BB1-2CF2-4817-8F28-53B74FC8EED6"
     }
   }
 }
