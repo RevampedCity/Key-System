@@ -1,12 +1,13 @@
 {
   "users": {
     "Jay": {
-      "key": "ALEX-KEY-1234",
-      "expires": "2025-06-15"
+      "key": "Owner",
+      "expires": "2025-07-01",
+      "hwid": "CLIENT-ID-123"
     },
-    "USERID:NAME": {
-      "key": "ZENO-KEY-5678",
-      "expires": "2025-07-01"
+    "Alex": {
+      "key": "ALEX-KEY-8888",
+      "expires": "2025-06-15"
     }
   }
 }
