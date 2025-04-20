@@ -3,11 +3,32 @@
     "Jay": {
       "key": "Owner",
       "expires": "2025-07-01",
-      "hwid": "CLIENT-ID-123"
+      "hwid": "03F28BB1-1CF2-4617-8E17-52A74FD7EED5"
     },
-    "Alex": {
-      "key": "ALEX-KEY-8888",
+    "kk": {
+      "key": "lll",
+      "expires": "2025-07-01",
+      "hwid": "03F28BB1-1CF2-4617-8E17-52A74FD7EED5"
+    },
+    "lll": {
+      "key": "lll",
+      "expires": "2025-07-01",
+      "hwid": "03F28BB1-1CF2-4617-8E17-52A74FD7EED5"
+    },
+    "lll": {
+      "key": "lll",
+      "expires": "2025-07-01",
+      "hwid": "03F28BB1-1CF2-4617-8E17-52A74FD7EED5"
+    },
+    "Jllay": {
+      "key": "lll",
+      "expires": "2025-07-01",
+      "hwid": "03F28BB1-1CF2-4617-8E17-52A74FD7EED5"
+    },
+    "lll": {
+      "key": "llll",
       "expires": "2025-06-15"
+      "hwid": "03F28BB1-1CF2-4617-8E17-52A74FD7EED5"
     }
   }
 }
