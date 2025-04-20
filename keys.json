@@ -1,0 +1,12 @@
+{
+  "users": {
+    "Jay": {
+      "key": "ALEX-KEY-1234",
+      "expires": "2025-06-15"
+    },
+    "USERID:NAME": {
+      "key": "ZENO-KEY-5678",
+      "expires": "2025-07-01"
+    }
+  }
+}
